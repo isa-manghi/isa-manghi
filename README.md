@@ -1,6 +1,6 @@
 [![Isabella's GitHub Banner](./assets/banner.png)]
-[![Lisits Badge]https://badges.pufler.dev/visits/isa-manghi]
-[![LinkedIn Badge]https://img.shields.io/badge/dynamic/json?url=<https://www.linkedin.com/in/aisabellam/>&label=<LinkedIn>-<Profile>-<blue>]
+[![Lisits Badge](https://badges.pufler.dev/visits/isa-manghi)]
+[![LinkedIn Badge](https://img.shields.io/badge/dynamic/json?url=<https://www.linkedin.com/in/aisabellam/>&label=<LinkedIn>-<Profile>-<blue>)]
 
 ### Hi there 👋
 
@@ -24,7 +24,7 @@ Source Control: Git, GitHub
 
 ## 🧮 GitHub Stats
 
-[![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-manghia&show_icons=true&theme=dracula)](https://github.com/isa-manghi/github-readme-stats)
+[![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-manghi&show_icons=true&theme=dracula)](https://github.com/isa-manghi/github-readme-stats)
 
 ### 🌐 Top Languages
 
