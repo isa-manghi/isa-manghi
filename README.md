@@ -1,6 +1,5 @@
 [![Isabella's GitHub Banner](./assets/banner.png)]
-[![Lisits Badge](https://badges.pufler.dev/visits/isa-manghi)]
-[![LinkedIn Badge](https://img.shields.io/badge/dynamic/json?url=<https://www.linkedin.com/in/aisabellam/>&label=<LinkedIn>-<Profile>-<blue>)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aisabellam/)
 
 ### Hi there 👋
 
@@ -18,8 +17,8 @@ Source Control: Git, GitHub
 
 ## 📝 Some things i've written
 
-- [Burden or benefit: Do standards work for IoT SMEs?] [https://www.bsigroup.com/globalassets/documents/iot/ucl-bsi-mpa-project-report-2.pdf]
-- [The future of digital poachers – where to for digital conservation?] [https://blogs.ucl.ac.uk/steapp/2019/07/29/the-future-of-digital-poachers-where-to-for-digital-conservation/]
+- [Burden or benefit: Do standards work for IoT SMEs?](https://www.bsigroup.com/globalassets/documents/iot/ucl-bsi-mpa-project-report-2.pdf)
+- [The future of digital poachers – where to for digital conservation?](https://blogs.ucl.ac.uk/steapp/2019/07/29/the-future-of-digital-poachers-where-to-for-digital-conservation/)
 
 
 ## 🧮 GitHub Stats
