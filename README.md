@@ -18,8 +18,8 @@ Source Control: Git, GitHub
 
 ## 📝 Some things i've written
 
-- Burden or benefit: Do standards work for IoT SMEs? [https://www.bsigroup.com/globalassets/documents/iot/ucl-bsi-mpa-project-report-2.pdf]
-- The future of digital poachers – where to for digital conservation? [https://blogs.ucl.ac.uk/steapp/2019/07/29/the-future-of-digital-poachers-where-to-for-digital-conservation/]
+- [Burden or benefit: Do standards work for IoT SMEs?] [https://www.bsigroup.com/globalassets/documents/iot/ucl-bsi-mpa-project-report-2.pdf]
+- [The future of digital poachers – where to for digital conservation?] [https://blogs.ucl.ac.uk/steapp/2019/07/29/the-future-of-digital-poachers-where-to-for-digital-conservation/]
 
 
 ## 🧮 GitHub Stats
