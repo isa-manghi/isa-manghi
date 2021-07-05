@@ -21,6 +21,12 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 - [Burden or benefit: Do standards work for IoT SMEs?](https://www.bsigroup.com/globalassets/documents/iot/ucl-bsi-mpa-project-report-2.pdf)
 - [The future of digital poachers – where to for digital conservation?](https://blogs.ucl.ac.uk/steapp/2019/07/29/the-future-of-digital-poachers-where-to-for-digital-conservation/)
 
+## Conferences
+
+- Speaker at [SABS4CYBER 2019 conference.](https://www.cybsafe.com/community/blog/what-we-learned-at-sabs4cyber-2019-part-2-of-2/)
+- Speaker at the [BSI Standards 2019 conference](https://www.ucl.ac.uk/steapp/news/2019/apr/ucl-steapp-representatives-discussed-next-steps-iot-standards-bsi-standards-conference);  breakout room 3.
+- Speaker at the [DigitalStuff conference](https://twitter.com/TheDigitalStuff/status/1007248905807986688?s=20) 2018 held at Cardiff University.
+
 
 ## 🧮 GitHub Stats
 
