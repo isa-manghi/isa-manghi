@@ -10,11 +10,11 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 
 ## 🖥️ Tech Stack
 
-Language: Golang
-APIs: Postman
-Data: MongoDB, DataDog
-Deployment: Docker, AWS, Kubernetes
-Source Control: Git, GitHub
+- Language: Golang
+- APIs: Postman
+- Data: MongoDB, DataDog
+- Deployment: Docker, AWS, Kubernetes
+- Source Control: Git, GitHub
 
 ## 📝 Some things i've written
 
