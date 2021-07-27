@@ -11,13 +11,14 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 ## 🖥️ Tech Stack
 
 - Language: Golang
-- APIs: Postman
 - Data: MongoDB, DataDog
 - Deployment: Docker, AWS, Kubernetes
-- Source Control: Git, GitHub
+- Source Control: Git, GitHub, Gitlab
 
 ## 📝 Some things i've written
 
+- [Developer Experience@Curve](https://www.curve.com/blog/developer-experience-at-curve/)
+- [Hello, World!](https://www.curve.com/blog/hello-world/)
 - [Burden or benefit: Do standards work for IoT SMEs?](https://www.bsigroup.com/globalassets/documents/iot/ucl-bsi-mpa-project-report-2.pdf)
 - [The future of digital poachers – where to for digital conservation?](https://blogs.ucl.ac.uk/steapp/2019/07/29/the-future-of-digital-poachers-where-to-for-digital-conservation/)
 
