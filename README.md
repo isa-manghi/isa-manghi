@@ -29,9 +29,9 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 - Speaker at the [DigitalStuff conference](https://twitter.com/TheDigitalStuff/status/1007248905807986688?s=20) 2018 held at Cardiff University.
 
 
-## 🧮 GitHub Stats
+<!-- ## 🧮 GitHub Stats
 
-[![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-manghi&show_icons=true&theme=dracula)](https://github.com/isa-manghi/github-readme-stats)
+[![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-manghi&show_icons=true&theme=dracula)](https://github.com/isa-manghi/github-readme-stats) -->
 
 ### 🌐 Top Languages
 
