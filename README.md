@@ -1,6 +1,9 @@
 ![Isabella's GitHub Banner](./assets/banner.png)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aisabellam/)
 
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aisabellam#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aisabellam#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Hi there 👋
 
