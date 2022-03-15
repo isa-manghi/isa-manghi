@@ -1,10 +1,6 @@
 ![Isabella's GitHub Banner](./assets/banner.png)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aisabellam/)
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aisabellam#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aisabellam#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ### Hi there 👋
 
 I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyglot.
@@ -43,6 +39,9 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 
 <!--
 **isa-manghi/isa-manghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aisabellam#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aisabellam#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 Here are some ideas to get you started:
 
