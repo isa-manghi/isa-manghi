@@ -5,7 +5,7 @@
 
 I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyglot.
 
-## 😄 Pronouns: She/Her
+### 😄 Pronouns: She/Her
 
 ## 🖥️ Tech Stack
 
@@ -13,10 +13,6 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 - Data: MongoDB, DataDog, DynamoDB
 - Deployment: Docker, AWS, Kubernetes, Jenkins
 - Source Control: Git, GitHub, Gitlab
-
-## 🧮 GitHub Stats
-
-[![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-manghi&show_icons=true&theme=dracula)](https://github.com/isa-manghi/github-readme-stats) 
 
 ## 📝 Some things i've written
 
@@ -31,7 +27,12 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 - Speaker at the [BSI Standards 2019 conference](https://www.ucl.ac.uk/steapp/news/2019/apr/ucl-steapp-representatives-discussed-next-steps-iot-standards-bsi-standards-conference)
 - Speaker at the [DigitalStuff conference](https://twitter.com/TheDigitalStuff/status/1007248905807986688?s=20) 2018 held at Cardiff University.
 
+## 🧮 GitHub Stats
 
+[![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-manghi&show_icons=true&theme=dracula)](https://github.com/isa-manghi/github-readme-stats) 
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isa-manghi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **isa-manghi/isa-manghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
