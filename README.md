@@ -21,8 +21,15 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 ## 🎓 Conferences
 
 - Speaker at [SABS4CYBER 2019 conference.](https://www.cybsafe.com/community/blog/what-we-learned-at-sabs4cyber-2019-part-2-of-2/)
+> What goes on in the boardroom?
+
+> CybSafe’s own Isabella Manghi was next on the bill, presenting her research into cyber risk management in the boardroom. In her talk, Isabella characterised the boardroom as a “black box” of sorts – in that we know what goes into the boardroom and we know what comes out, but we don’t know how boardroom decisions are reached. Why is it, for example, boards tend to be disengaged with cyber security? And why is it boards typically underinvest in security provisions? Isabella’s research suggests boardrooms are melting pots of cognitive biases – ultimately breeding suboptimal outcomes.
+
 - Speaker at the [BSI Standards 2019 conference](https://www.ucl.ac.uk/steapp/news/2019/apr/ucl-steapp-representatives-discussed-next-steps-iot-standards-bsi-standards-conference)
+> Navigating and informing the IoT standards landscape: A guide for SMEs and Start-ups 
+
 - Speaker at the [DigitalStuff conference](https://twitter.com/TheDigitalStuff/status/1007248905807986688?s=20) 2018 held at Cardiff University.
+> The uses and issues of mass online data.
 
 <!-- ## 🧮 GitHub Stats
 
