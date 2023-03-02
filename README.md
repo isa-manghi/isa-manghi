@@ -7,7 +7,7 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 ## 🖥️ Tech Stack
 
 - Languages: Golang, Python
-- Data: MongoDB, DataDog, DynamoDB
+- Data: DynamoDB, Graphql, MongoDB, DataDog
 - Deployment: Docker, AWS, Kubernetes, Jenkins
 - Source Control: Git, GitHub, Gitlab
 
