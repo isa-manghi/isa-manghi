@@ -13,8 +13,6 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 
 ## 📝 Some things i've written
 
-- [Developer Experience@Curve](https://www.curve.com/blog/developer-experience-at-curve/)
-- [Hello, World!](https://www.curve.com/blog/hello-world/)
 - [Burden or benefit: Do standards work for IoT SMEs?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3454591)
 - [The future of digital poachers – where to for digital conservation?](https://blogs.ucl.ac.uk/steapp/2019/07/29/the-future-of-digital-poachers-where-to-for-digital-conservation/)
 
