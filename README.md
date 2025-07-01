@@ -13,6 +13,7 @@ I'm Isabella, Software engineer, Certified Lead ISO 27001 Implementer, and polyg
 
 ## 📝 Some things i've written
 
+- [Swipe Right on Go: Why we ghosted PHP](https://engineering.muzz.com/swipe-right-on-go-why-we-ghosted-php/)
 - [Burden or benefit: Do standards work for IoT SMEs?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3454591)
 - [The future of digital poachers – where to for digital conservation?](https://blogs.ucl.ac.uk/steapp/2019/07/29/the-future-of-digital-poachers-where-to-for-digital-conservation/)
 
